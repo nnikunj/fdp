@@ -1,0 +1,4 @@
+java -jar /opt/fdp/app/FDP-0.0.1-SNAPSHOT.jar 
+#java -jar /opt/fdp/app/FDP-0.0.1-SNAPSHOT.jar --spring.config.location=/opt/fdp/config/application.properties
+
+ 
